@@ -1,0 +1,6 @@
+C:\Users\abdullah\Desktop\TUIO\TUIO11_NET-master\bin\Debug\libTUIO.dll
+C:\Users\abdullah\Desktop\TUIO\TUIO11_NET-master\bin\Debug\libTUIO.pdb
+C:\Users\abdullah\Desktop\TUIO\TUIO11_NET-master\obj\Debug\TUIO_LIB.csproj.AssemblyReference.cache
+C:\Users\abdullah\Desktop\TUIO\TUIO11_NET-master\obj\Debug\TUIO_LIB.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Desktop\TUIO\TUIO11_NET-master\obj\Debug\libTUIO.dll
+C:\Users\abdullah\Desktop\TUIO\TUIO11_NET-master\obj\Debug\libTUIO.pdb
